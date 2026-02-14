@@ -1,0 +1,9 @@
+# Comandos básicos de Git
+
+git status   → Muestra el estado de los archivos.
+git init     → Inicializa un repositorio local.
+git clone    → Copia un repositorio remoto.
+git add .    → Agrega archivos al área de preparación.
+git commit -m "mensaje" → Guarda los cambios en el historial.
+git push     → Envía los cambios al repositorio remoto.
+git pull     → Descarga y actualiza cambios desde el remoto.
